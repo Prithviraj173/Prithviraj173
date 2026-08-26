@@ -5,7 +5,7 @@ const ritesh: Developer = {
 
   competitive: {
     codeforces: { handle: "Sinister007",        rating: 1352,   goal: "Expert (1600+)" },
-    leetcode:   { handle: "Prithvi____00007", solved: "700+", target: "1000+ by EOY"    },
+    leetcode:   { handle: "Prithvi____00007", solved: "700+", target: "1000+ by EOY" },
     icpc:       "Targeting 2026 Regionals",
   },
 
