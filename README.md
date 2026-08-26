@@ -4,12 +4,14 @@
 
 <br>
 
-### `Open Source Contributor | Competitive Programmer | ML Enthusiast`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A970FF&center=true&vCenter=true&width=750&lines=Open+Source+Contributor;Competitive+Programmer;ML+Enthusiast" />
 
-<br>
+<br><br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Prithviraj173&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square)](https://github.com/Prithviraj173)
+
 [![Followers](https://img.shields.io/github/followers/Prithviraj173?label=FOLLOWERS&style=flat-square&color=7C3AED)](https://github.com/Prithviraj173?tab=followers)
+
 ![Focus](https://img.shields.io/badge/FOCUS-ICPC%202026-7C3AED?style=flat-square)
 
 </div>
@@ -24,7 +26,7 @@
 
 | 💻 Codeforces | 🧠 LeetCode | 🏆 ICPC | 🤝 Open Source |
 |:---:|:---:|:---:|:---:|
-| **1352** | **700+ Solved** | **2026 Regionals** | **GSSoC & Hacktoberfest** |
+| [**1352**](https://codeforces.com/profile/Sinister007) | [**700+ Solved**](https://leetcode.com/u/prithvi____00007/) | **2026 Regionals** | **GSSoC & Hacktoberfest** |
 
 </div>
 
@@ -37,7 +39,7 @@ const prithviraj = {
     name:       "Prithviraj Adhikary",
     college:    "LNMIIT Jaipur — B.Tech Computer Science (2025–2029)",
     location:   "Alipurduar, WB → Jaipur, RJ",
-    
+
     interests: [
         "Competitive Programming",
         "Open Source",
