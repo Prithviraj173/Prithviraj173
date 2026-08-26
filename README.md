@@ -1,18 +1,20 @@
 <div align="center">
 
-# Prithviraj Adhikary
-
-### B.Tech CS @ LNMIIT Jaipur | Class of 2029
-
-**Open Source Contributor | Competitive Programmer | ML Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,50:19103D,100:0D1117&height=230&section=header&text=Prithviraj%20Adhikary&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=B.Tech%20CS%20%40%20LNMIIT%20Jaipur%20%7C%20Class%20of%202029&descSize=18&descAlignY=65&descColor=FFFFFF" width="100%"/>
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Prithviraj173&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Prithviraj173)
-[![GitHub Followers](https://img.shields.io/github/followers/Prithviraj173?style=for-the-badge&color=7c3aed&label=FOLLOWERS)](https://github.com/Prithviraj173)
-[![Focus](https://img.shields.io/badge/FOCUS-ICPC%202026-7c3aed?style=for-the-badge)](https://github.com/Prithviraj173)
+### `Open Source Contributor | Competitive Programmer | ML Enthusiast`
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Prithviraj173&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square)](https://github.com/Prithviraj173)
+[![Followers](https://img.shields.io/github/followers/Prithviraj173?label=FOLLOWERS&style=flat-square&color=7C3AED)](https://github.com/Prithviraj173?tab=followers)
+![Focus](https://img.shields.io/badge/FOCUS-ICPC%202026-7C3AED?style=flat-square)
 
 </div>
+
+<br>
 
 ---
 
@@ -28,55 +30,30 @@
 
 ---
 
-## 👨‍💻 Developer
+## 🧑‍💻 Developer
 
-```typescript
-const prithviraj: Developer = {
-  name:       "Prithviraj Adhikary",
-  college:    "LNMIIT Jaipur — B.Tech Computer Science (2025–2029)",
-  location:   "Alipurduar, WB → Jaipur, RJ",
+```javascript
+const prithviraj = {
+    name:       "Prithviraj Adhikary",
+    college:    "LNMIIT Jaipur — B.Tech Computer Science (2025–2029)",
+    location:   "Alipurduar, WB → Jaipur, RJ",
+    
+    interests: [
+        "Competitive Programming",
+        "Open Source",
+        "Machine Learning",
+        "Software Development"
+    ],
 
-  competitive: {
-    codeforces: {
-      handle: "Sinister007",
-      rating:  1352,
-      goal:    "Expert (1600+)"
-    },
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Machine Learning",
+        "Advanced Problem Solving"
+    ],
 
-    leetcode: {
-      handle: "Prithvi__00007",
-      solved:  "700+",
-      target:  "1000+ by EOY"
-    },
-
-    icpc: "Targeting 2026 Regionals"
-  },
-
-  ml_focus: [
-    "Ensemble Models (LightGBM + XGBoost + CatBoost)",
-    "Feature Engineering & OOF Encoding",
-    "Traffic Demand Prediction",
-    "Kaggle / Competition ML"
-  ],
-
-  techStack: {
-    languages: ["C++17", "Python", "Java", "Solidity", "TypeScript"],
-    frontend:  ["React 18", "Vite", "Tailwind CSS", "shadcn/ui"],
-    backend:   ["Node.js", "Express", "REST APIs"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL"],
-    ml:        ["scikit-learn", "LightGBM", "XGBoost", "CatBoost", "Pandas", "NumPy"],
-    tools:     ["Git", "Linux", "Docker", "Prisma", "Monaco Editor"]
-  },
-
-  currentlyBuilding: [
-    "Algorithms → LeetCode Visualizer & Complexity Analyzer SaaS",
-    "LeetCode → GitHub Chrome Extension (MV3)",
-    "ICPC Problem-Solving Ladder (8-Phase, 610+ problems)"
-  ],
-
-  achievements: [
-    "🥉 2nd Runner-Up Cybros Coding Contest",
-    "🌍 1500+ Questions Solved on various platforms",
-    "🚀 SIH 2026 Participant",
-  ]
+    goals: [
+        "ICPC 2026",
+        "Open Source Contributions",
+        "Building Real-World Projects"
+    ]
 };
