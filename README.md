@@ -35,9 +35,9 @@ const prithviraj: Developer = {
   ],
 
   achievements: [
-    "🥉 2nd Runner-Up @ Inflection Hackathon — LNMIIT Lost & Found Portal",
-    "🌍 Hacktoberfest Contributor 2025",
-    "🚀 GSSoC (GirlScript Summer of Code) Contributor",
+    "🥉 2nd Runner-Up Cybros Coding Contest",
+    "🌍 1500+ Questions Solved on various platforms",
+    "🚀 SIH 2026 Participant",
   ],
 };
 ```
