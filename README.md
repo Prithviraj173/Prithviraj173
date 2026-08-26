@@ -26,7 +26,7 @@
 
 | 💻 Codeforces | 🧠 LeetCode | 🏆 ICPC | 🤝 Open Source |
 |:---:|:---:|:---:|:---:|
-| [**1352**](https://codeforces.com/profile/Sinister007) | [**700+ Solved**](https://leetcode.com/u/prithvi____00007/) | **2026 Regionals** | **GSSoC & Hacktoberfest** |
+| [**1359**](https://codeforces.com/profile/Sinister007) | [**700+ Solved**](https://leetcode.com/u/prithvi____00007/) | **2026 Regionals** | **GSSoC & Hacktoberfest** |
 
 </div>
 
